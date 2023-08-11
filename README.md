@@ -18,8 +18,6 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 <img src= "https://media.giphy.com/media/TcZXh7W73jkuOP7kXz/giphy.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<iframe src="https://giphy.com/embed/TcZXh7W73jkuOP7kXz" width="226" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TcZXh7W73jkuOP7kXz">via GIPHY</a></p>
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
 
@@ -38,6 +36,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
     * Organizing notes by tagging. 
 
 **My App Idea**
+
 My App name will be MemorizeVerse. It is a free bible memorization app. Features include
 
 * Minimalistic UI and Offline usage
